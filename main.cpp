@@ -6,9 +6,7 @@
 //in a single pass causing each to perform all tasks that it can.
 
 #include <iostream>
-#include <chrono>
 #include <thread>
-#include "Headers/Organism.h"
 #include "Headers/City.h"
 #include "Headers/GameSpecs.h"
 #include "Headers/Human.h"
