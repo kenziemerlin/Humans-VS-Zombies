@@ -1,0 +1,9 @@
+# ninja log v5
+0	1653	7268698833442232	CMakeFiles/HumansVsZombies.dir/main.cpp.obj	ae39893166e74013
+13	481	7268700032063267	CMakeFiles/HumansVsZombies.dir/Src/Zombie.cpp.obj	1da00e3aff2599fd
+3	494	7268700032203295	CMakeFiles/HumansVsZombies.dir/Src/Human.cpp.obj	e7874d3cdf260572
+7	507	7268700032333323	CMakeFiles/HumansVsZombies.dir/Src/Organism.cpp.obj	981e08d3a52a9a29
+10	814	7268700035414387	CMakeFiles/HumansVsZombies.dir/Src/City.cpp.obj	b83055378aee8e58
+815	912	7268700036359208	HumansVsZombies.exe	91c719bf51cc0b2
+3	1172	7268700675548209	CMakeFiles/HumansVsZombies.dir/main.cpp.obj	ae39893166e74013
+1172	1277	7268700676588183	HumansVsZombies.exe	91c719bf51cc0b2
